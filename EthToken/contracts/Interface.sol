@@ -21,7 +21,5 @@ contract Interface {
     /// @notice `msg.sender` approves `_spender` to spend `_value` tokens
     /// @param _spender The address of the account able to transfer the tokens
     /// @param _value The amount of tokens to be approved for transfer
-    function approve(address _spender, uint256 _value) public ;
-
-
+    function approve(address _spender, uint256 _value) public ;  
 }

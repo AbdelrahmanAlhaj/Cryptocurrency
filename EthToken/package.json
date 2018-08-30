@@ -4,10 +4,10 @@
     "test": "mocha"
   },
   "dependencies": {
-    "mocha": "^4.0.1",
-    "web3": "^1.0.0-beta.26",
     "ganache-cli": "^6.0.3",
-    "solc": "^0.4.21"
-   
+    "mocha": "^4.0.1",
+    "solc": "^0.4.24",
+    "truffle-hdwallet-provider": "0.0.6",
+    "web3": "^1.0.0-beta.34"
   }
 }
